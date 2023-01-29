@@ -1,13 +1,19 @@
 RSA-Factoring-Challenge
-Author man_technologist
 
-Georgina Emefa Kumah nerd_face
-Acknowledgement pray
 
-This project is designed to factorize as many numbers as possible into a product of two smaller numbers. It works perfectly for that except the case of big numbers (numbers bigger than long unsigned integers), please, any contribution towards making this project works for big numbers will be highly appreciated...thank you
-Tasks page_with_curl
+Author
 
-    ** 0. Factorize all the things!**
+Georgina Emefa Kumah
+
+
+Acknowledgement
+
+This project is designed to factorize as many numbers as possible into a product of two smaller numbers. It works perfectly for that except the case of big numbers (numbers bigger than long unsigned integers), please, any contribution towards making this project works for big numbers would be highly appreciated...thank you
+
+
+Tasks
+
+    **0. Factorize all the things!**
 
 Factorize as many numbers as possible into a product of two smaller numbers.
 
@@ -52,7 +58,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	user    0m0.008s
 	sys 0m0.001s
 
-    ** 1. RSA Factoring Challenge**
+    **1. RSA Factoring Challenge**
 
 	RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that
 
