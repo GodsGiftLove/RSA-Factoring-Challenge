@@ -1,20 +1,17 @@
-RSA-Factoring-Challenge
+# RSA-Factoring-Challenge
 
+### Author :man_technologist:
+Kumah Georgina Emefa :nerd_face:
 
-Author
+## Acknowledgement :pray:
+This project is designed to factorize as many numbers as possible into a product of two smaller numbers.
+It works perfectly for that except the case of bignumbers (numbers bigger than long long unsigned integers)
+please any contribution towards making this project works for bignumbers will be highly appreciated..
 
-Georgina Emefa Kumah
+## Tasks :page_with_curl:
 
-
-Acknowledgement
-
-This project is designed to factorize as many numbers as possible into a product of two smaller numbers. It works perfectly for that except the case of big numbers (numbers bigger than long unsigned integers), please, any contribution towards making this project works for big numbers would be highly appreciated...thank you
-
-
-Tasks
-
-    **0. Factorize all the things!**
-
+* ** 0. Factorize all the things!**
+```
 Factorize as many numbers as possible into a product of two smaller numbers.
 
 	Usage: factors <file>
@@ -57,9 +54,9 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	real    0m0.009s
 	user    0m0.008s
 	sys 0m0.001s
-
-    **1. RSA Factoring Challenge**
-
+```
+* ** 1. RSA Factoring Challenge**
+```
 	RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that
 
 	n = p × q. The problem is to find these two primes, given only n.
@@ -74,4 +71,4 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	6=3*2
 	julien@ubuntu:~/RSA Factoring Challenge$ cat tests/rsa-2
 	77
-
+```
